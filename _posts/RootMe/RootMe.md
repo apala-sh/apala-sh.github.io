@@ -20,7 +20,7 @@ scan the target machine using `nmap` to find all the open ports and the service/
 - `-sV` $\implies$ Probe open ports to determine service/version info
 - `-sC` $\implies$ use default script (or `--script=default`)
 
-<figure>![img1](RootMe/Pasted%20image%2020250711160201.png)</figure>
+![img1](RootMe/Pasted%20image%2020250711160201.png)
 
 We see that 2 ports (22/ssh and 80/http) are open on the target machine. Port 22 is running ssh and the Apache version is `2.4.29`
 
