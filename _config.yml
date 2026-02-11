@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Apala S"
   avatar : "/assets/images/profile2.png"
-  bio    : "A place for all my witeps :)"
+  bio    : "A place for all my writeups :)"
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
