@@ -79,4 +79,4 @@ Executing the teh above command gives us root access
 ![img1]({{ site.url }}{{ site.baseurl }}/assets/images/BountyHacker/10.png) 
 
 We can find 'root.txt' and get the final flag for this challenge!
-![img1]({{ site.url }}{{ site.baseurl }}/assets/images/BountyHacker/12.png) 
+![img1]({{ site.url }}{{ site.baseurl }}/assets/images/BountyHacker/11.png) 
